@@ -4,7 +4,7 @@ This is a simple implementation of the popular game, Tic-Tac-Toe, created using 
 
 ## Getting Started
 
-To run this game, simply open the `index.html` file in your web browser.
+To run this game, simply visit this link: https://blueswizzle.github.io/tic-tac-toe/
 
 ## How to Play
 
@@ -28,9 +28,6 @@ To run this game, simply open the `index.html` file in your web browser.
 * JavaScript
 * jQuery
 
-## Author
-
-This game was created by Atheek Ashkar.
 
 ## Acknowledgments
 
